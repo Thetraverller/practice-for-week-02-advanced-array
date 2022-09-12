@@ -49,7 +49,7 @@ let arr2 = [
   [2]
 ];
 console.log(twoDimensionalProduct(arr2)); // 88
-
+  
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
 
 try {
