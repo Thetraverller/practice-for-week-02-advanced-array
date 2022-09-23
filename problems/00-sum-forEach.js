@@ -13,7 +13,7 @@ console.log(sumForEach([])); // 0
 
 let sumForEach = function(arr) {
   // Your code here
-  let sum  = null
+  let sum  = 0
   arr.forEach( function(value) {
          sum += value;
   })
